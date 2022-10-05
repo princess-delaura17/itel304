@@ -1,0 +1,14 @@
+h1 {
+    border: 2px #EEEEEE solid;
+    color: #00BFFF;
+    text-align: center;
+    padding: 20px;
+    background-color: blue;
+
+}
+div{
+    width: 100%;
+    border-radius: 6px;
+    background-color: white;
+    padding: 50px;
+    }
